@@ -5,8 +5,8 @@ Mathematical optimization refers to solving real world problems by deconstructin
 
 There are 3 main parts in an optimization problem:
 
-  **Objective function
+  *Objective function (what are we trying to solve: either minimize/ maximize the function)
   
-  **Decision variables
+  *Decision variables(which are the variables that can be changed to accomodate our objective function)
   
-  **Constraints
+  *Constraints(what are the bounds of our problem) 

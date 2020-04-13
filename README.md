@@ -6,5 +6,7 @@ Mathematical optimization refers to solving real world problems by deconstructin
 There are 3 main parts in an optimization problem:
 
   **Objective function
+  
   **Decision variables
+  
   **Constraints

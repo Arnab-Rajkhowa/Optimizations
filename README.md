@@ -4,6 +4,7 @@ Mathematical optimization refers to the selection of an optimal solution from a 
 
 - Transportation/Routing Problems
 - Scheduling Problems
+- Optimal Diet Problem
 - Production Planning etc.
 
 There are 3 main parts in an optimization problem:

@@ -1,5 +1,4 @@
 # Optimizations
-Solving real world problems using mathematical optimization
 
 Mathematical optimization refers to the selection of an optimal solution from a bunch of alternatives by using mathematical equations. It is used in almost every industry to solve problems and arrive at an optimal decision. These are a few areas where mathematical optimization/programming is used:
 
